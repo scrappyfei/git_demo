@@ -10,4 +10,11 @@ class GitDemoApplicationTests {
     void contextLoads() {
     }
 
+
+    @Test
+    public void test01() {
+        System.out.println("test01");
+
+    }
+
 }
