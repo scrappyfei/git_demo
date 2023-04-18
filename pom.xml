@@ -16,6 +16,7 @@
     <description>git_demo</description>
     <modules>
         <module>child_one</module>
+        <module>child_two</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
