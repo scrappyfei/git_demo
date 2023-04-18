@@ -11,8 +11,12 @@
     <groupId>com.example</groupId>
     <artifactId>git_demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <name>git_demo</name>
     <description>git_demo</description>
+    <modules>
+        <module>child_one</module>
+    </modules>
     <properties>
         <java.version>1.8</java.version>
     </properties>
