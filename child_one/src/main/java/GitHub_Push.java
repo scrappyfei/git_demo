@@ -6,7 +6,7 @@ public class GitHub_Push {
         System.out.println("Hello World");
         log.info("dev branch");
         System.out.println("hi");// master
+        System.out.println("dev branch");// dev branch
+        System.out.println("conflicts");// conflict
     }
-
-
 }
