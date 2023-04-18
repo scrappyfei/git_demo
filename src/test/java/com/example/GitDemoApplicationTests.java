@@ -24,4 +24,10 @@ class GitDemoApplicationTests {
 
     }
 
+
+    @Test
+    public void test03() {
+        System.out.println("test03");
+    }
+
 }
