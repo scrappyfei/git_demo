@@ -17,6 +17,7 @@
     <modules>
         <module>child_one</module>
         <module>child_two</module>
+        <module>child_three</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
